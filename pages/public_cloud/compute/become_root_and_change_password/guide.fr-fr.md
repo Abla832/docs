@@ -1,7 +1,7 @@
 ---
 title: 'Passer root et définir un mot de passe'
 excerpt: "Apprenez à vous servir de l'utilisateur root et à créer un mot de passe pour celui-ci"
-updated: 2022-03-24
+updated: 2024-04-05
 ---
 
 ## Objectif
@@ -64,7 +64,7 @@ Entrez ensuite le mot de passe root.
 
 Pour commencer, [définissez le mot de passe root](#settingtherootpassword).
 
-Ensuite, accédez à la console VNC :
+Ensuite, connectez-vous à votre espace client OVHcloud dans la partie 'Public Cloud'{.action], puis dans la rubrique 'Instances'{.action], et accédez à la console VNC :
 
 Cliquez sur les `...`{.action} à droite de l’instance correspondante puis cliquez sur `Détail de l'instance`{.action}. 
 
